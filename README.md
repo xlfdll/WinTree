@@ -1,5 +1,5 @@
 # WinTree
-A utility to generate file list from hard drives.
+A utility to generate file list from hard drives
 
 ## System Requirements
 * .NET Framework 2.0
