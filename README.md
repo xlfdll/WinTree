@@ -4,7 +4,7 @@ A utility to generate file list from hard drives.
 ## System Requirements
 * .NET Framework 2.0
 
-[Runtime configuration](https://docs.microsoft.com/en-us/dotnet/framework/migration-guide/how-to-configure-an-app-to-support-net-framework-4-or-4-5) may be needed for running on other versions of .NET Framework.
+[Runtime configuration](https://docs.microsoft.com/en-us/dotnet/framework/migration-guide/how-to-configure-an-app-to-support-net-framework-4-or-4-5) is needed for running on .NET Framework 4.0+.
 
 ## Development Prerequisites
 * Visual Studio 2022+
